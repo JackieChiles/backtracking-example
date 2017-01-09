@@ -1,0 +1,5 @@
+.range-stepper, .range-picker {
+    border: 1px dashed black;
+    margin: 10px;
+    padding: 10px;
+}
